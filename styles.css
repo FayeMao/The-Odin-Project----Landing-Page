@@ -121,6 +121,9 @@ button:active, button:focus {
     justify-content: center;
 }
 
+.secondary-picture {
+    margin-left:5%;
+}
 .secondary-picture img {
     height:100%;
     object-fit:cover;
